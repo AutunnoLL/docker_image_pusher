@@ -1,4 +1,8 @@
 nginx
 kasmweb/nginx:1.25.3
 xhofe/alist:latest
+mtphotos/mt-photos:latest
+jxxghp/moviepilot:latest
+natfrp/frpc:latest
+hectorqin/reader:latest
 --platform=linux/arm64 xiaoyaliu/alist
