@@ -1,6 +1,4 @@
-nginx
-kasmweb/nginx:1.25.3
-xhofe/alist:latest
+
 mtphotos/mt-photos:latest
 jxxghp/moviepilot:latest
 natfrp/frpc:latest
@@ -8,4 +6,4 @@ hectorqin/reader:latest
 lscr.io/linuxserver/transmission:latest
 ghcr.io/immich-app/immich-server:release
 ghcr.io/immich-app/immich-machine-learning:release
---platform=linux/arm64 xiaoyaliu/alist
+mzz2017/v2raya:latest
