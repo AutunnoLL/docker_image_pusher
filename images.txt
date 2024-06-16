@@ -16,3 +16,4 @@ ghcr.io/immich-app/immich-machine-learning:release
 mzz2017/v2raya:latest
 apachewebdav/apachewebdav:latest
 privoce/vocechat-server:latest
+laoyutang/clash-and-dashboard:latest
