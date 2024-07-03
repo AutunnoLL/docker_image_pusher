@@ -17,3 +17,10 @@ mzz2017/v2raya:latest
 apachewebdav/apachewebdav:latest
 privoce/vocechat-server:latest
 laoyutang/clash-and-dashboard:latest
+caddy
+netbirdio/dashboard:latest
+netbirdio/signal:latest
+netbirdio/management:latest
+coturn/coturn
+ghcr.io/zitadel/zitadel:v2.31.3
+cockroachdb/cockroach:v22.2.2
