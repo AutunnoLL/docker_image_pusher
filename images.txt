@@ -24,3 +24,4 @@ netbirdio/management:latest
 coturn/coturn
 ghcr.io/zitadel/zitadel:v2.31.3
 cockroachdb/cockroach:v22.2.2
+netbirdio/netbird
