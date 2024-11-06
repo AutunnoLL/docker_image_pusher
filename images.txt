@@ -21,9 +21,12 @@ caddy
 netbirdio/dashboard:latest
 netbirdio/signal:latest
 netbirdio/management:latest
+netbirdio/relay:latest
 coturn/coturn
-ghcr.io/zitadel/zitadel:v2.31.3
-cockroachdb/cockroach:v22.2.2
+ghcr.io/zitadel/zitadel:v2.64.1
+cockroachdb/cockroach:latest-v23.2
+postgres:16-alpine
 netbirdio/netbird
 gdy666/lucky
 xhofe/alist:latest
+
