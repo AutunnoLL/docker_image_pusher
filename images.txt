@@ -18,6 +18,7 @@ apachewebdav/apachewebdav:latest
 privoce/vocechat-server:latest
 laoyutang/clash-and-dashboard:latest
 ddsderek/wxchat:latest
+snowdreamtech/frps:latest
 caddy
 netbirdio/dashboard:latest
 netbirdio/signal:latest
@@ -30,4 +31,3 @@ postgres:16-alpine
 netbirdio/netbird
 gdy666/lucky
 xhofe/alist:latest
-
