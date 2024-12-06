@@ -17,6 +17,7 @@ mzz2017/v2raya:latest
 apachewebdav/apachewebdav:latest
 privoce/vocechat-server:latest
 laoyutang/clash-and-dashboard:latest
+ddsderek/wxchat:latest
 caddy
 netbirdio/dashboard:latest
 netbirdio/signal:latest
