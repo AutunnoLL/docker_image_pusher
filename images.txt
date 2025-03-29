@@ -37,3 +37,4 @@ postgres:16-alpine
 netbirdio/netbird
 gdy666/lucky
 xhofe/alist:latest
+rustdesk/rustdesk-server:latest
