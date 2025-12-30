@@ -38,3 +38,4 @@ netbirdio/netbird
 gdy666/lucky
 xhofe/alist:latest
 rustdesk/rustdesk-server:latest
+ddsderek/wxchat:latest
